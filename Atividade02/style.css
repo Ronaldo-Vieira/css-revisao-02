@@ -1,0 +1,35 @@
+header{
+    background-color: rgb(243, 190, 110);
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+#direita{
+    width: 500px;
+    height: 410px;
+    position: fixed;
+    left: 50%;
+}   
+#baixo{
+    width: 500px;
+}
+p{
+    width: 500px;
+}
+#demo{
+    position: relative;
+    top: 100px;
+}
+#conteudo{
+    height: 400px;
+}
+
+footer{
+    position: fixed;
+    top: 90%;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    background-color: cadetblue;
+}

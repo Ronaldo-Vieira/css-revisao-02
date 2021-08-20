@@ -1,0 +1,36 @@
+p{
+    margin: 25px 50px 75px 100px;
+}
+#para-00{
+    border: 5px solid black;
+    border-radius: 5%;
+    background-color: black;
+    color: white;
+}
+#para-01{
+    border: 3px solid blue;
+    background-color: blue;
+}
+#para-02{
+    border: 1px dashed blueviolet;
+    background-color: blueviolet;
+}
+#para-03{
+    border: 5px dotted red;
+    background-color: red;
+}
+#para-04{
+    border: 15px double rgb(150, 128, 4);
+    background-color: rgb(150, 128, 4);
+}
+#para-05{
+    border: 5px double rgb(41, 197, 137);
+    background-color: rgb(41, 197, 137);
+}
+#para-06{
+    border-top: 1px solid rgb(107, 106, 106);
+    border-right: 10px solid rgb(107, 106, 106);
+    border-bottom: 5px solid rgb(107, 106, 106);
+    border-left: 20px solid rgb(107, 106, 106);
+    background-color: rgb(107, 106, 106);
+}
